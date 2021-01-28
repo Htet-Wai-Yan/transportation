@@ -1,0 +1,24 @@
+      
+
+      <footer class="contacts">
+        <h2>Contacts</h2>
+        <div>
+          <p>Address: 4578 Marmora Road,Glasgow D04 89GR</p>
+          <h2><i class="fas fa-mobile-alt"></i> 800-2345-6789</h2>
+          <i class="fas fa-mail-bulk"></i><a href="#"> info@demolink.org</a>
+          <div class="social">
+            <a href=""><i class="fa fa-facebook"></i></a>
+            <a href=""><i class="fa fa-twitter"></i></a>
+            <a href=""><i class="fa fa-google-plus"></i></a>
+            <a href=""><i class="fa fa-youtube"></i></a>
+          </div>
+        </div>
+        <p>
+          You're receiving this email because you signed up for «Transportation» or attended one of our events. You can <a href="">unsubscribe</a> from this email or change your email notifications. Online version is <a href="">here</a>.
+        </p>
+        <div class="copyright">
+          <em>
+            <span><a href="">Transportation</a> 2015,<a href="">Privacy Policy</a></span>
+          </em>
+        </div>
+      </footer>
